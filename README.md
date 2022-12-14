@@ -4,7 +4,7 @@ The current simulation does not predict Cd values correctly and has a very coars
 
 Steps to run using OpenFoam
 
-run blockMesh
-run checkMesh
-run rhoPimpleFoam
-run paraFoam or postProcess command
+run blockMesh <br />
+run checkMesh <br />
+run rhoPimpleFoam <br />
+run paraFoam or postProcess command <br />
